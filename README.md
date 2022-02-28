@@ -11,4 +11,9 @@ make sure you have pygame installed (pip install pygame)
 make sure you're inside the game directory
 run 'python3 game.py'
 
+you can use the arrow keys to move
+if you get hit by a flying laptop you lose
+
+to quit the game press esc or close the window
+
 
